@@ -1,1 +1,1 @@
-# Django "Lesson-2"
+# Django "Lesson-3"
